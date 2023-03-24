@@ -1,0 +1,3 @@
+Spark repartition vs coalesce
+repartition is used to increase or decrease the RDD, DataFrame, Dataset partitions
+whereas to coalesce is used to only decrease the number of partitions in an efficient way.
