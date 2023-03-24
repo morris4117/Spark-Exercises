@@ -1,0 +1,2 @@
+This is the spark RDD program to create RDD.
+this the programming class wew are learning spark RDD
